@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @ Ilya-Begalko
+- 👀 I am interested in Web-Programming and Game-Development
+- 🌱 I am now studying at OmSTU
+- 📫 How to get to me -- ilja.begalko@yandex.ru
