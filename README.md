@@ -2,8 +2,12 @@
 
 # Hi there,  I\`m Ilya Begalko
 Angular Frontend Developer
+
+My portfolio:  https://ilya-begalko.github.io/
+
 <!-- Badges -->
-[![Telegram](https://img.shields.io/static/v1?logo=Telegram&logoColor=26A5E4&message=Profile&label=Telegram)](https://t.me/ilbglk)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/ilbglk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-begalko/)
 
 <!-- Stats -->
 :chart_with_upwards_trend: GitHub Stats
