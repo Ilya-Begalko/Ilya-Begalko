@@ -30,7 +30,7 @@ I am a Angular Frontend Developer <img src="https://media.giphy.com/media/WUlplc
 
 - In my free time, I like to play xbox or go in for sports.
 
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ilyaBegalko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-begalko/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IlyaBegalko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-begalko/)
 
 ---
 
