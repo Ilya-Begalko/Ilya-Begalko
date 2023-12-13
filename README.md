@@ -21,7 +21,7 @@
 </div>
 
 
-### :man_technologist: About Me :
+### About Me :
 I am a Angular Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m working as a Frontend Developer in a company IAT VT.
@@ -34,7 +34,7 @@ I am a Angular Frontend Developer <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### :hammer_and_wrench: Languages and Tools : 
+### Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
