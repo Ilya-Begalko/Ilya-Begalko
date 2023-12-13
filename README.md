@@ -24,13 +24,13 @@
 ### About Me :
 I am a Angular Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m working as a Frontend Developer in a company IAT VT.
+- I’m working as a Frontend Developer in a company IAT VT.
 
-- :seedling: I periodically create page layouts in Figma.
+- I periodically create page layouts in Figma.
 
-- :zap: In my free time, I like to play xbox or go in for sports.
+- In my free time, I like to play xbox or go in for sports.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-begalko/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-begalko/)
 
 ---
 
