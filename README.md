@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/ilya-begalko/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Ilya-Begalko&style=flat-square&color=blue" alt=""/>
@@ -24,7 +24,7 @@
 ### About Me :
 I am a Angular Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- I’m working as a Frontend Developer in a company IAT VT.
+- I’m working as a Frontend Developer in a company TopnLab.
 
 - I periodically create page layouts in Figma.
 
